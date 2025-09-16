@@ -3,7 +3,7 @@
 - 🌱 I’m currently studying at Loughborough University
 - 📫 How to reach me email: dthamilton38@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I captained England Under 18 boys for the European Hockey Championships in Germany.
+
 
 <!---
 danham38/danham38 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
