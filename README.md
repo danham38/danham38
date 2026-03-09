@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @danham38
-- 👀 I’m interested in Comp Sci and Cybersecurity
+- 👀 I’m interested in Comp Sci and HFT Algos/FinTech
 - 🌱 I’m currently studying at Loughborough University
 - 📫 How to reach me email: dthamilton38@gmail.com
-- 😄 Pronouns: He/Him
+
 
 
 <!---
